@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "### Prisma Cloud -- CI Testing -- ###"
+echo "Prisma Cloud -- CI Testing --"
